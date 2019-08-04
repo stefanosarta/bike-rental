@@ -5,9 +5,9 @@ DATA USED IN THIS PROJECT DONT BELONG TO ME. I AM JUST BORROWING IT TO TRAIN MY 
 
 DATA WAS DOWNLOADED FROM https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
-==========================================
+======================================
 Bike Sharing Dataset
-==========================================
+======================================
 
 Hadi Fanaee-T
 
@@ -17,9 +17,9 @@ Rua Dr. Roberto Frias, 378
 4200 - 465 Porto, Portugal
 
 
-=========================================
+=====================================
 Background 
-=========================================
+=====================================
 
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
@@ -33,9 +33,9 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.
 
-=========================================
+=====================================
 License
-=========================================
+=====================================
 Use of this dataset in publications must be cited to the following publication:
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
@@ -53,8 +53,8 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
+=====================================
 Contact
-=========================================
+=====================================
 	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
